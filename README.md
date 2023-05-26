@@ -101,3 +101,7 @@ I've been building open source themes for all the main static site generators fo
 - [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
 
 🇦🇺 **Made in Australia** by Robert Austin
+
+## Notes
+
+* Change pages displayed in menu: `_data/menus.yml`

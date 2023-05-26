@@ -1,16 +1,16 @@
-baseurl: '/'
+baseurl: "/"
 permalink: pretty
-title: 'Jekyll Serif'
+title: "Measure Space"
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile: "images/logo/measurespace_logo_blue.jpg"
+  mobile_height: "20px"
+  mobile_width: #"32px"
+  desktop: "images/logo/measurespace_logo_blue.jpg"
+  desktop_height: "40px"
+  desktop_width: #"120px"
 
-home: 
+home:
   limit_services: 6
 
 collections:
