@@ -3,8 +3,8 @@ permalink: pretty
 title: "Measure Space"
 
 logo:
-  mobile: "images/logo/measurespace_logo_blue.jpg"
-  mobile_height: "20px"
+  mobile: "images/logo/measurespace_logo_blue_mobile.jpg"
+  mobile_height: "10px"
   mobile_width: #"32px"
   desktop: "images/logo/measurespace_logo_blue.jpg"
   desktop_height: "40px"
