@@ -3,12 +3,12 @@ permalink: pretty
 title: "Measure Space"
 
 logo:
-  mobile: "images/logo/measurespace_logo_blue_mobile.jpg"
-  mobile_height: "5px"
-  mobile_width: #"32px"
-  desktop: "images/logo/measurespace_logo_blue.jpg"
-  desktop_height: "40px"
-  desktop_width: #"120px"
+  mobile: "images/logo/measurespace_logo_mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/measurespace_logo.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
 
 home:
   limit_services: 6
