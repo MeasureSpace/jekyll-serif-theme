@@ -5,12 +5,12 @@
 <defs>
 </defs>
 <rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
-<g transform="matrix(0 0 0 0 0 0)" id="97e84d96-467a-437a-ad43-6bcd5a177d4e"  >
+<g transform="matrix(0 0 0 0 0 0)" id="11e51706-7137-4158-8ec9-0b3d4378df4f"  >
 </g>
-<g transform="matrix(1 0 0 1 120 32)" id="c51a1073-9ea1-472d-8b51-e924dd6e5bdf"  >
+<g transform="matrix(1 0 0 1 120 32)" id="17bb5d49-10ec-4700-8e11-3557a875a7fd"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-120" y="-32" rx="0" ry="0" width="240" height="64" />
 </g>
-<g transform="matrix(0.9 0 0 0.9 120 32)" style="" id="ac0cd42e-ef28-4fc5-9cd9-858ccd2859a9"  >
-		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(194,4,63); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-132.82" y="12.57" >Measure Space</tspan></text>
+<g transform="matrix(0.92 0 0 0.92 120 32)" style="" id="acb56f02-4180-4221-b969-53b9a48cf6ef"  >
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-132.82" y="12.57" >Measure Space</tspan></text>
 </g>
 </svg>
