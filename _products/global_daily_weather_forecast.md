@@ -14,3 +14,14 @@ Your gateway to comprehensive weather predictions on a global scale, tailored fo
 Whether you're developing a travel app, optimizing agricultural operations, or planning outdoor events, our Global Daily Weather Forecast API provides the essential tools to keep users informed and prepared for whatever the weather may bring.
 
 Join the ranks of leading innovators and leverage the power of daily weather forecasts with the Global Daily Weather Forecast API. Welcome to a world where forecasting meets reliability, helping you stay ahead with confidence.
+
+Please see current available weather variables below and let us know if you need other variables.
+
+| name      | unit | description               |
+| --------- | ---- | ------------------------- |
+| tp        | mm   | daily total precipitation |
+| minT      | K    | daily minimum temperature |
+| maxT      | K    | daily maximum temperature |
+| meanT     | K    | daily mean temperature    |
+| meanUWind | m/s  | daily mean eastward wind  |
+| meanVWind | m/s  | daily mean northward wind |

@@ -14,3 +14,12 @@ Your passport to real-time weather insights, tailored for today's data-driven wo
 Whether you're building a mobile app, powering a website, or integrating weather functionality into your business operations, our Global Hourly Weather Forecast API provides the tools you need to keep users informed and engaged.
 
 Stay ahead of the elements and harness the power of real-time weather data with the Global Hourly Weather Forecast API. Welcome to a world where weather forecasting meets innovation.
+
+Please see current available weather variables below and let us know if you need other variables.
+
+| name | unit | description         |
+| ---- | ---- | ------------------- |
+| tp   | mm   | total precipitation |
+| t2m  | K    | 2m air temperature  |
+| u10  | m/s  | 10m eastward wind   |
+| v10  | m/s  | 10m northward wind  |
