@@ -7,7 +7,7 @@ date: 2024-05-06T13:44:30+10:00
 weight: 1
 ---
 
-## Global Hourly Weather Forecast API
+Global Hourly Weather Forecast API
 
 Your passport to real-time weather insights, tailored for today's data-driven world. Designed to empower developers, businesses, and weather enthusiasts alike, our Global Hourly Weather Forecast API delivers comprehensive hourly forecasts worldwide in the next 5 days, covering every corner of the globe with precision and accuracy.
 

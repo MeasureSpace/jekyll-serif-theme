@@ -19,6 +19,7 @@ collections:
     sort_by: weight
   products:
     output: true
+    sort_by: weight
 
 defaults:
   - scope:
@@ -30,7 +31,7 @@ defaults:
       path: ""
       type: "products"
     values:
-      layout: "products"
+      layout: "product"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

@@ -7,7 +7,7 @@ date: 2024-05-06T15:44:30+10:00
 weight: 2
 ---
 
-## Global Daily Weather Forecast API
+Global Daily Weather Forecast API
 
 Your gateway to comprehensive weather predictions on a global scale, tailored for seamless integration into your applications and services. Our Global Daily Weather Forecast API delivers reliable daily forecasts in the next 15 days for locations across the world, empowering you to make informed decisions based on accurate weather insights.
 
