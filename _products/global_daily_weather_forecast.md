@@ -15,13 +15,12 @@ Whether you're developing a travel app, optimizing agricultural operations, or p
 
 Join the ranks of leading innovators and leverage the power of daily weather forecasts with the Global Daily Weather Forecast API. Welcome to a world where forecasting meets reliability, helping you stay ahead with confidence.
 
-Please see current available weather variables below and let us know if you need other variables.
-
-| name      | unit | description               |
+Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis-docs/MeasureSpace/weather-api/0.1.0#/forecast/get_global_daily_weather_forecast_global_daily_weather_forecast_get).
+| name | unit | description |
 | --------- | ---- | ------------------------- |
-| tp        | mm   | daily total precipitation |
-| minT      | K    | daily minimum temperature |
-| maxT      | K    | daily maximum temperature |
-| meanT     | K    | daily mean temperature    |
-| meanUWind | m/s  | daily mean eastward wind  |
-| meanVWind | m/s  | daily mean northward wind |
+| tp | mm | daily total precipitation |
+| minT | K | daily minimum temperature |
+| maxT | K | daily maximum temperature |
+| meanT | K | daily mean temperature |
+| meanUWind | m/s | daily mean eastward wind |
+| meanVWind | m/s | daily mean northward wind |
