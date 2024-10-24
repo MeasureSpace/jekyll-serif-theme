@@ -9,13 +9,9 @@ weight: 1
 
 Global Hourly Weather Forecast API
 
-Your passport to real-time weather insights, tailored for today's data-driven world. Designed to empower developers, businesses, and weather enthusiasts alike, our Global Hourly Weather Forecast API delivers comprehensive hourly forecasts worldwide in the next 5 days, covering every corner of the globe with precision and accuracy.
+Your passport to real-time weather insights, tailored for today's data-driven world. Designed to empower developers, businesses, and weather enthusiasts alike, our Global Hourly Weather Forecast API delivers comprehensive hourly forecasts worldwide in the next 5 days, covering every corner of the globe with precision and accuracy. Whether you're building a mobile app, powering a website, or integrating weather functionality into your business operations, our Global Hourly Weather Forecast API provides the tools you need to keep users informed and engaged.
 
-Whether you're building a mobile app, powering a website, or integrating weather functionality into your business operations, our Global Hourly Weather Forecast API provides the tools you need to keep users informed and engaged.
-
-Stay ahead of the elements and harness the power of real-time weather data with the Global Hourly Weather Forecast API. Welcome to a world where weather forecasting meets innovation.
-
-Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis-docs/MeasureSpace/weather-api/0.1.0#/forecast/get_global_hourly_weather_forecast_global_hourly_weather_forecast_get).
+Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis-docs/MeasureSpace/weather-api/0.1.0#/forecast/get_global_hourly_weather_forecast_global_hourly_weather_forecast_get). This API data is also available on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-heghe5zjmqy26?sr=0-2&ref_=beagle&applicationId=AWSMPContessa#offers).
 
 | name  | unit  | description                       |
 | ----- | ----- | --------------------------------- |
