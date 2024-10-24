@@ -17,9 +17,16 @@ Stay ahead of the elements and harness the power of real-time weather data with 
 
 Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis-docs/MeasureSpace/weather-api/0.1.0#/forecast/get_global_hourly_weather_forecast_global_hourly_weather_forecast_get).
 
-| name | unit | description         |
-| ---- | ---- | ------------------- |
-| tp   | mm   | total precipitation |
-| t2m  | K    | 2m air temperature  |
-| u10  | m/s  | 10m eastward wind   |
-| v10  | m/s  | 10m northward wind  |
+| name  | unit  | description                       |
+| ----- | ----- | --------------------------------- |
+| tp    | mm    | total precipitation               |
+| t2m   | K     | 2m air temperature                |
+| u10   | m/s   | 10m eastward wind                 |
+| v10   | m/s   | 10m northward wind                |
+| r2    | %     | relative humidity                 |
+| d2m   | K     | dew point temperature             |
+| sde   | m     | snow depth                        |
+| sunsd | s     | sunshine duration                 |
+| dswrf | w/m^2 | downward shortwave radiation flux |
+| vis   | m     | visibility                        |
+| sp    | Pa    | pressure                          |
