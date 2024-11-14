@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-## Unleashing the Power of Data with Expert Machine Learning Services
+<!-- ## Unleashing the Power of Data with Expert Machine Learning Services -->
 
-We provide consulting services in Data Science, Machine Learning, end-to-end Machine Learning Operations (MLOps), weather, climate and environmental sciences.
+## We provide consulting services in Data Science, Machine Learning, end-to-end Machine Learning Operations (MLOps), Weather, Climate and Environmental Sciences!
