@@ -11,7 +11,7 @@ Global Hourly Weather Forecast API
 
 Your passport to real-time weather insights, tailored for today's data-driven world. Designed to empower developers, businesses, and weather enthusiasts alike, our Global Hourly Weather Forecast API delivers comprehensive hourly forecasts worldwide in the next 5 days, covering every corner of the globe with precision and accuracy. Whether you're building a mobile app, powering a website, or integrating weather functionality into your business operations, our Global Hourly Weather Forecast API provides the tools you need to keep users informed and engaged.
 
-Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis/measurespace.io/global-hourly_forecast_weather_api/0.1.0). This API data is also available on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-heghe5zjmqy26?sr=0-2&ref_=beagle&applicationId=AWSMPContessa#offers).
+Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis-docs/measurespace.io/global-hourly_forecast_weather_api/0.1.0#/). This API data is also available on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-heghe5zjmqy26?sr=0-2&ref_=beagle&applicationId=AWSMPContessa#offers).
 
 | name  | unit  | description                       |
 | ----- | ----- | --------------------------------- |

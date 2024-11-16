@@ -11,7 +11,7 @@ Global Daily Weather Forecast API
 
 Your gateway to comprehensive weather predictions on a global scale, tailored for seamless integration into your applications and services. Our Global Daily Weather Forecast API delivers reliable daily forecasts in the next 15 days for locations across the world, empowering you to make informed decisions based on accurate weather insights. Whether you're developing a travel app, optimizing agricultural operations, or planning outdoor events, our Global Daily Weather Forecast API provides the essential tools to keep users informed and prepared for whatever the weather may bring.
 
-Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis/measurespace.io/global-daily_forecast_weather_api/0.1.0). This API data is also available on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-ixlsy4vwvkj3u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa).
+Please see current available weather variables below and let us know if you need other variables. You can find detailed instructions from [Swagger UI](https://app.swaggerhub.com/apis-docs/measurespace.io/global-daily_forecast_weather_api/0.1.0). This API data is also available on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-ixlsy4vwvkj3u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa).
 
 | name      | unit  | description                                         |
 | --------- | ----- | --------------------------------------------------- |
