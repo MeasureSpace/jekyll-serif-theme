@@ -17,6 +17,8 @@ Please see current available weather variables below and let us know if you need
 | -------------- | -------------------------------------------------------------------------------- | ------------- | ------------- | ----------- |
 | weatherCode    | weather code used for weather icons                                              | -             | -             | -           |
 | timezone       | time zone name                                                                   | -             | -             | -           |
+| sunrise        | sunrise time                                                                     | -             | -             | -           |
+| sunset         | sunset time                                                                      | -             | -             | -           |
 | tp             | daily total precipitation                                                        | mm            | inch          | mm          |
 | minT           | daily minimum temperature                                                        | K             | F             | C           |
 | maxT           | daily maximum temperature                                                        | K             | F             | C           |
@@ -32,7 +34,10 @@ Please see current available weather variables below and let us know if you need
 | solarR         | daily accumulated downward shortwave radiation flux                              | w/m^2         | w/m^2         | w/m^2       |
 | meanVis        | daily mean visibility                                                            | m             | miles         | km          |
 | pressure       | daily mean pressure                                                              | Pa            | Pa            | Pa          |
-| st             | top soil temperature                                                             | K             | F             | C           |
+| meanST         | daily mean top soil temperature                                                  | K             | F             | C           |
+| maxST          | daily maximum top soil temperature                                               | K             | F             | C           |
+| minST          | daily minimum top soil temperature                                               | K             | F             | C           |
+| meanSoilw      | daily mean top soil moisture                                                     | -             | -             | -           |
 | crain          | rain (1) or not (0)                                                              | 0/1           | 0/1           | 0/1         |
 | csnow          | snow (1) or not (0)                                                              | 0/1           | 0/1           | 0/1         |
 | cicep          | ice pellets (1) or not (0)                                                       | 0/1           | 0/1           | 0/1         |
@@ -44,6 +49,7 @@ Please see current available weather variables below and let us know if you need
 | precipType     | precipitation type (0-no precip, 1-rain, 2-snow, 3-freezing rain, 4-ice pellets) | 0/1/2/3/4     | 0/1/2/3/4     | 0/1/2/3/4   |
 | minApparentT   | minimum apparent temperature (i.e. feels-like temperature)                       | K             | F             | C           |
 | maxApparentT   | maximum apparent temperature (i.e. feels-like temperature)                       | K             | F             | C           |
+
 
 Note: For daily variables, you can get daytime and nighttime variables for local time by adding `daytime_` or `nighttime_` before the variable names.
 For example, if you want to get daytime or nighttime total precipitation, you can use variable names `daytime_tp` or `nighttime_tp`.
