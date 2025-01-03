@@ -31,6 +31,7 @@ Please see current available weather variables below and let us know if you need
 | vis         | visibility                                                                       | m             | miles         | km          |
 | sp          | pressure                                                                         | Pa            | Pa            | Pa          |
 | st          | top soil temperature                                                             | K             | F             | C           |
+| soilw       | top soil moisture                                                                | -             | -             | -           |
 | crain       | rain (1) or not (0)                                                              | 0/1           | 0/1           | 0/1         |
 | csnow       | snow (1) or not (0)                                                              | 0/1           | 0/1           | 0/1         |
 | cicep       | ice pellets (1) or not (0)                                                       | 0/1           | 0/1           | 0/1         |
@@ -40,4 +41,5 @@ Please see current available weather variables below and let us know if you need
 | cape        | surface convective available potential energy                                    | J/kg          | J/kg          | J/kg        |
 | precipType  | precipitation type (0-no precip, 1-rain, 2-snow, 3-freezing rain, 4-ice pellets) | 0/1/2/3/4     | 0/1/2/3/4     | 0/1/2/3/4   |
 | apparentT   | apparent temperature (i.e. feels-like temperature)                               | K             | F             | C           |
+
 
